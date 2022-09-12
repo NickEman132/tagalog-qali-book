@@ -11,9 +11,13 @@ The Tagalog *kali/qali words below have been selected from Carl Rubino’s Tagal
 Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul” (Zorc) and *balian “shaman” (Blust).
 
 # Contents
-hyperlink]
+[Life](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#life)
+
+[Insects, invertebrates]
 
 # Life
+
+[Contents](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
 
 halimaw - wild beast
 
