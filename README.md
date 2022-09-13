@@ -1308,4 +1308,8 @@ balatok - gold ore
 
 # [References](https://github.com/NickEman132/tagalog-qali-book#contents)
 
-Blust, Robert A. 2001. "Historical morphology and the spirit world: *qali/kali-prefixes in Austronesian languages." In John Bradshaw and Kenneth L. Rehg (eds.) Issues in Austronesian Morphology. A festschrift for Byron W. Bender. Canberra: Pacific Linguistics, 15-73.
+Blust, Robert A. 2001. "Historical morphology and the spirit world: *qali/kali-prefixes in Austronesian languages." In John Bradshaw and Kenneth L. Rehg (eds.) *Issues in Austronesian Morphology. A festschrift for Byron W. Bender*. Canberra: Pacific Linguistics, 15-73.
+
+Blust, Robert A. 2009. *The Austronesian Languages*. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies, Australian National University.
+
+Rubino, Carl R. Galvez. 2002. *Tagalog-English English-Tagalog Dictionary*. New York: Hippocrene Books.
