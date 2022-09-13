@@ -10,49 +10,49 @@ The Tagalog *kali/qali words below have been selected from Carl Rubino’s ''Tag
 Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul” (Zorc) and *balian “shaman” (Blust).
 
 # Contents
-[**Life**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#life)
+[**Life**](https://github.com/NickEman132/tagalog-qali-book#life)
 
-[*Insects, invertebrates*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#insects-invertebrates)
+[*Insects, invertebrates*](https://github.com/NickEman132/tagalog-qali-book#insects-invertebrates)
 
-[*Reptiles*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#reptiles)
+[*Reptiles*](https://github.com/NickEman132/tagalog-qali-book#reptiles)
 
-[*Birds*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#birds)
+[*Birds*](https://github.com/NickEman132/tagalog-qali-book#birds)
 
-[*Fish*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#fish)
+[*Fish*](https://github.com/NickEman132/tagalog-qali-book#fish)
 
-[*Plants*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#plants)
+[*Plants*](https://github.com/NickEman132/tagalog-qali-book#plants)
 
-[**Shape and motion**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#shape-and-motion)
+[**Shape and motion**](https://github.com/NickEman132/tagalog-qali-book#shape-and-motion)
 
-[*Twisting, circular motion*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#twisting-circular-motion)
+[*Twisting, circular motion*](https://github.com/NickEman132/tagalog-qali-book#twisting-circular-motion)
 
-[*Floating, rising, scattering*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#floating-rising-scattering)
+[*Floating, rising, scattering*](https://github.com/NickEman132/tagalog-qali-book#floating-rising-scattering)
 
-[*Restless, uneasiness*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#restlessness-uneasiness)
+[*Restless, uneasiness*](https://github.com/NickEman132/tagalog-qali-book#restlessness-uneasiness)
 
-[*Crowds and swarms*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#crowds-and-swarms)
+[*Crowds and swarms*](https://github.com/NickEman132/tagalog-qali-book#crowds-and-swarms)
 
-[*Magic, spirituality*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#magic-spirituality)
+[*Magic, spirituality*](https://github.com/NickEman132/tagalog-qali-book#magic-spirituality)
 
-[**Natural phenomena**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#natural-phenomena)
+[**Natural phenomena**](https://github.com/NickEman132/tagalog-qali-book#natural-phenomena)
 
-[*Odors, emissions*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#odors-emissions)
+[*Odors, emissions*](https://github.com/NickEman132/tagalog-qali-book#odors-emissions)
 
-[*Echoes, sounds*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#echoes-sounds)
+[*Echoes, sounds*](https://github.com/NickEman132/tagalog-qali-book#echoes-sounds)
 
-[*Weather*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#weather)
+[*Weather*](https://github.com/NickEman132/tagalog-qali-book#weather)
 
-[**Human and animal body**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#human-and-animal-body)
+[**Human and animal body**](https://github.com/NickEman132/tagalog-qali-book#human-and-animal-body)
 
-[**Miscellaneous**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#miscellaneous)
+[**Miscellaneous**](https://github.com/NickEman132/tagalog-qali-book#miscellaneous)
 
-# [Life](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+# [Life](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 halimaw - wild beast
 
 palisán - female water buffalo (regional term)
 
-## [Insects, invertebrates](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Insects, invertebrates](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alibangbáng - small yellow-winged butterfly; flirt (coll.)
 
@@ -96,7 +96,7 @@ ulapihan - scorpion (alakdán)
 
 unós - wood borer, weevil
 
-## [Reptiles](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Reptiles](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alimuranin - species of large snake
 
@@ -110,7 +110,7 @@ manlilingkís - boa constrictor
 
 paliás - species of turtle
 
-## [Birds](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Birds](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alimbuyugin - red-colored rooster with black spots on the wing
 
@@ -134,7 +134,7 @@ kulasisi' - parrot; mistress
 
 ulikbá' - fowl with dark meat
 
-## [Fish](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Fish](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 aligasín - mullet fish (Mugil ceramensis)
 
@@ -198,7 +198,7 @@ talimusák - long-finned goby fish (Oxyurichthys microlepis)
 
 tulingan - tuna type fish (Thunnidae family); tulingan-putí' - Oceanic bonito
 
-## [Plants](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Plants](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alibangon - species of creeping plant
 
@@ -298,9 +298,9 @@ sulá-sulasihan (root: sulasi) - kind of fragrant herb (Leucas aspera)
 
 taraumpalit - species of plant with purple flowers
 
-# [Shape and Motion](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+# [Shape and Motion](https://github.com/NickEman132/tagalog-qali-book#contents)
 
-## [Twisting, circular motion](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Twisting, circular motion](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 aligutgót - entangled; trouble, mischief
 
@@ -438,7 +438,7 @@ uliuli - eddy (alimpuyó)
 
 untáy - twisted (rope)
 
-## [Floating, rising, scattering](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Floating, rising, scattering](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 aligíd - circling around, hovering
 
@@ -548,7 +548,7 @@ undáp - flickering of light
 
 undók - oscillation
 
-## [Restlessness, uneasiness](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Restlessness, uneasiness](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alimpungát - half-awake
 
@@ -704,7 +704,7 @@ tuliró - confused; stunned
 
 undót - falling back when startle
 
-## [Crowds and swarms](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Crowds and swarms](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 kalibungbóng - group of people, crowd
 
@@ -718,7 +718,7 @@ halubilo - mingling with the crowd
 
 pulupón - small group
 
-## [Magic, spirituality](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Magic, spirituality](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 balani' - charm; magnetism
 
@@ -740,9 +740,9 @@ salamangka - magic
 
 ulirát - sense, consciousness
 
-# [Natural phenomena](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+# [Natural phenomena](https://github.com/NickEman132/tagalog-qali-book#contents)
 
-## [Odors, emissions](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Odors, emissions](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alisangsáng - strong, offensive odor
 
@@ -760,7 +760,7 @@ halimuyák - fragrance; whiff
 
 halpók - putrid
 
-## [Echoes, sounds](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Echoes, sounds](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alingawngáw - echo, reverberation; noise, clamor
 
@@ -832,7 +832,7 @@ ngalutngót - crunching sound
 
 waliswís - swishing sound of branches in the wind
 
-## [Weather](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Weather](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 alinagnág - hazy visibility
 
@@ -858,7 +858,7 @@ kulimlím - dark, overcast
 
 unós - squall, strong wind with rain
 
-# [Human and animal body](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+# [Human and animal body](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 aligí - ovary of crustaceans
 
@@ -992,6 +992,6 @@ untóg - bump on the head
 
 waliwali - close to the time of delivery (pregnant women); defective eyesight caused by hunger
 
-# [Miscellaneous](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+# [Miscellaneous](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 balatok - gold ore
