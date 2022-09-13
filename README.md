@@ -48,6 +48,8 @@ The Tagalog *kali/qali words below have been selected from Carl Rubino’s ''Tag
 
 [**Miscellaneous**](https://github.com/NickEman132/tagalog-qali-book#miscellaneous)
 
+[**References**](https://github.com/NickEman132/tagalog-qali-book#references)
+
 # [Overview](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 *kali/qali words are widespread among Austronesian languages, and are found from Taiwan to Oceania. The majority of these words are four syllables long (Blust 2001).
@@ -1303,3 +1305,7 @@ waliwali - close to the time of delivery (pregnant women); defective eyesight ca
 # [Miscellaneous](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 balatok - gold ore
+
+# [References](https://github.com/NickEman132/tagalog-qali-book#contents)
+
+Blust, Robert A. 2001. "Historical morphology and the spirit world: *qali/kali-prefixes in Austronesian languages." In John Bradshaw and Kenneth L. Rehg (eds.) Issues in Austronesian Morphology. A festschrift for Byron W. Bender. Canberra: Pacific Linguistics, 15-73.
