@@ -24,7 +24,13 @@ Proto-Austronesian reconstructions of interest include *qanitu â€œspirit, soulâ€
 
 [**Shape and motion**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#shape-and-motion)
 
-[Twisting, circular motion](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#twisting-circular-motion)
+[**Twisting, circular motion**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#twisting-circular-motion)
+
+[**Floating, rising, scattering**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#floating-rising-scattering)
+
+[**Restless, uneasiness**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#restlessness-uneasiness)
+
+[**Crowds and swarms**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#crowds-and-swarms)
 
 # [Life](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
 
