@@ -3,13 +3,15 @@
 A significant number of Tagalog words begin with the **Proto-Austronesian prefix** ****kali/qali***, which are described by Blust (2009:368) as implying a “sensitive connection with the spirit world.” The *kali/qali words present in the modern-day Tagalog language are a legacy of the Tagalog people’s animist past.
 
 The Tagalog *kali/qali words below have been selected from Carl Rubino’s ''Tagalog-English, English-Tagalog Dictionary'' (2002).
-## Overview
-
-*kali/qali words are widespread among Austronesian languages, and are found from Taiwan to Oceania. The majority of these words are four syllables long (Blust 2001).
-
-Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul” (Zorc) and *balian “shaman” (Blust).
 
 # Contents
+
+[**Overview**](https://github.com/NickEman132/tagalog-qali-book#overview)
+
+[*Semantic categories*]
+
+[*Allomorphs*]
+
 [**Life**](https://github.com/NickEman132/tagalog-qali-book#life)
 
 [*Insects, invertebrates*](https://github.com/NickEman132/tagalog-qali-book#insects-invertebrates)
@@ -45,6 +47,91 @@ Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul�
 [**Human and animal body**](https://github.com/NickEman132/tagalog-qali-book#human-and-animal-body)
 
 [**Miscellaneous**](https://github.com/NickEman132/tagalog-qali-book#miscellaneous)
+
+# Overview
+
+*kali/qali words are widespread among Austronesian languages, and are found from Taiwan to Oceania. The majority of these words are four syllables long (Blust 2001).
+
+Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul” (Zorc) and *balian “shaman” (Blust).
+
+## Semantic categories
+
+*kali/qali words include (Blust 2001:24-59):
+
+Invertebrates
+ant
+bat
+beetle
+bumblebee
+caterpillar/grub
+centipede
+cockroach
+crab
+dragonfly
+earthworm
+firefly
+flea
+gecko
+grasshopper
+honeybee
+leech
+millipede
+scorpion
+snake
+spider
+termite
+wasp
+Natural processes and prodigies of nature
+aureole (lunar or solar halo)
+dust in the air
+shadow/reflection
+sparks
+storm
+sunshower
+rainbow
+whirlwind/whirlpool
+echo
+Semantic contagion
+restless
+rustle
+hair whorl
+summit
+dizzy
+sling
+go around in circles
+confused (of vision, sound, the mind)
+thick smoke or steam
+turbid
+far/disappear
+lost
+loud noise
+drunk
+conical
+Body parts
+clavicle or collarbone
+palate
+pupil of the eye
+scapula
+Various birds, fish, plants
+fighting cock (variety)
+omen dove
+owl
+swallow
+woodpecker
+mollusk, shellfish
+nettle
+Others
+spirit
+taboos
+gargle/rinse the mouth
+red clouds of sunset
+skin disease
+talk/walk in one's sleep
+topsy turvy
+
+## Allomorphs
+
+
 
 # [Life](https://github.com/NickEman132/tagalog-qali-book#contents)
 
