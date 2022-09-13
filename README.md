@@ -8,9 +8,9 @@ The Tagalog *kali/qali words below have been selected from Carl Rubino’s ''Tag
 
 [**Overview**](https://github.com/NickEman132/tagalog-qali-book#overview)
 
-[*Semantic categories*]
+[*Semantic categories*](https://github.com/NickEman132/tagalog-qali-book#semantic-categories)
 
-[*Allomorphs*]
+[*Allomorphs*](https://github.com/NickEman132/tagalog-qali-book#allomorphs)
 
 [**Life**](https://github.com/NickEman132/tagalog-qali-book#life)
 
@@ -58,75 +58,144 @@ Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul�
 
 *kali/qali words include (Blust 2001:24-59):
 
-Invertebrates
+**Invertebrates**
+
 ant
+
 bat
+
 beetle
+
 bumblebee
+
 caterpillar/grub
+
 centipede
+
 cockroach
+
 crab
+
 dragonfly
+
 earthworm
+
 firefly
+
 flea
+
 gecko
+
 grasshopper
+
 honeybee
+
 leech
+
 millipede
+
 scorpion
+
 snake
+
 spider
+
 termite
+
 wasp
-Natural processes and prodigies of nature
+
+**Natural processes and prodigies of nature**
+
 aureole (lunar or solar halo)
+
 dust in the air
+
 shadow/reflection
+
 sparks
+
 storm
+
 sunshower
+
 rainbow
+
 whirlwind/whirlpool
+
 echo
-Semantic contagion
+
+*Semantic contagion**
+
 restless
+
 rustle
+
 hair whorl
+
 summit
+
 dizzy
+
 sling
+
 go around in circles
+
 confused (of vision, sound, the mind)
+
 thick smoke or steam
+
 turbid
+
 far/disappear
+
 lost
+
 loud noise
+
 drunk
+
 conical
-Body parts
+
+**Body parts**
+
 clavicle or collarbone
+
 palate
+
 pupil of the eye
+
 scapula
-Various birds, fish, plants
+
+**Various birds, fish, plants**
+
 fighting cock (variety)
+
 omen dove
+
 owl
+
 swallow
+
 woodpecker
+
 mollusk, shellfish
+
 nettle
-Others
+
+**Others**
+
 spirit
+
 taboos
+
 gargle/rinse the mouth
+
 red clouds of sunset
+
 skin disease
+
 talk/walk in one's sleep
+
 topsy turvy
 
 ## Allomorphs
