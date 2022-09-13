@@ -696,7 +696,7 @@ halubilo - mingling with the crowd
 
 pulupón - small group
 
-[Magic, spirituality](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+## [Magic, spirituality](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
 
 balani' - charm; magnetism
 
