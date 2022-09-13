@@ -48,7 +48,7 @@ The Tagalog *kali/qali words below have been selected from Carl Rubino’s ''Tag
 
 [**Miscellaneous**](https://github.com/NickEman132/tagalog-qali-book#miscellaneous)
 
-# Overview
+# [Overview](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 *kali/qali words are widespread among Austronesian languages, and are found from Taiwan to Oceania. The majority of these words are four syllables long (Blust 2001).
 
@@ -124,7 +124,7 @@ whirlwind/whirlpool
 
 echo
 
-*Semantic contagion**
+**Semantic contagion**
 
 restless
 
