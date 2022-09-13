@@ -54,7 +54,7 @@ The Tagalog *kali/qali words below have been selected from Carl Rubino’s ''Tag
 
 Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul” (Zorc) and *balian “shaman” (Blust).
 
-## Semantic categories
+## [Semantic categories](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 *kali/qali words include (Blust 2001:24-59):
 
@@ -198,7 +198,7 @@ talk/walk in one's sleep
 
 topsy turvy
 
-## Allomorphs
+## [Allomorphs](https://github.com/NickEman132/tagalog-qali-book#contents)
 
 The allomorphs of *kali/qali below are from Blust (2001:34). The most commonly used ones are highlighted in bold. Are of the following are prefixes.
 
