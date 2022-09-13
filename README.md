@@ -24,13 +24,27 @@ Proto-Austronesian reconstructions of interest include *qanitu “spirit, soul�
 
 [**Shape and motion**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#shape-and-motion)
 
-[**Twisting, circular motion**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#twisting-circular-motion)
+[*Twisting, circular motion*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#twisting-circular-motion)
 
-[**Floating, rising, scattering**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#floating-rising-scattering)
+[*Floating, rising, scattering*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#floating-rising-scattering)
 
-[**Restless, uneasiness**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#restlessness-uneasiness)
+[*Restless, uneasiness*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#restlessness-uneasiness)
 
-[**Crowds and swarms**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#crowds-and-swarms)
+[*Crowds and swarms*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#crowds-and-swarms)
+
+[*Magic, spirituality*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#magic-spirituality)
+
+[**Natural phenomena**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#natural-phenomena)
+
+[*Odors, emissions*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#odors-emissions)
+
+[*Echoes, sounds*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#echoes-sounds)
+
+[*Weather*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#weather)
+
+[**Human and animal body**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#human-and-animal-body)
+
+[**Miscellaneous**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#miscellaneous)
 
 # [Life](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
 
@@ -745,3 +759,239 @@ halimunmón - fragrance, scent, aroma
 halimuyák - fragrance; whiff
 
 halpók - putrid
+
+## [Echoes, sounds](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+
+alingawngáw - echo, reverberation; noise, clamor
+
+alunigníg - faint echo or idea
+
+alulóng - distant howling
+
+atungal - cry of cattle
+
+bulukabok - gurgling sound
+
+halakhák - loud laughter
+
+hilhíl - loud laughter
+
+kalatís - sound, noise
+
+kalatóg - knocking noise
+
+kalatóng - small drum; clash
+
+kalatuwát - echo
+
+kalasáw - wriggling movement
+
+kalasíng - clinking sound
+
+kalambóg - heavy thumping
+
+kalamkám - tingling sensation
+
+kalampág - clanking noise; speaking in a loud voice (fig.)
+
+kalansín - jingling sound
+
+kalantís - swishing sound
+
+kalantóg - rattling sound
+
+kalít - creaking sound
+
+kalugkóg - muffled sound; distant roll of thunder
+
+kaluskós - rustling sound
+
+kulimbáng - act of ringing a big bell
+
+kulós - rustling sound
+
+halinghíng - neigh, whinny; moan, groan
+
+haluyhóy - moan, groan
+
+lingaw - clamor (lingáw = confused)
+
+lingawngáw - murmuring
+
+linggál - din, clamor
+
+ngalitngít - sound of gnashing, crunching
+
+ngalngál - wailing, grumbling
+
+ngalót (with mag-: magngalót) - to crunch noisily
+
+ngalubngób - noise of crunching brittle food
+
+ngalutngót - crunching sound
+
+waliswís - swishing sound of branches in the wind
+
+## [Weather](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+
+alinagnág - hazy visibility
+
+alinsangan - sultry weather
+
+alisuwág - humidity
+
+aluningníng - brilliance, resplendence
+
+balangáw - rainbow (bahaghari' )
+
+bulalakaw - shooting star; meteor [cf. Proto-Philippines *bulalakaw 'kind of nature spirit, probably identified with the appearance of a comet' (Blust 2001:57)]
+
+dalumóy - low, dark clouds
+
+halumigmíg - humid, damp
+
+talang - red skies at sunset
+
+limbo - halo (of moon)
+
+kulimlím - dark, overcast
+
+unós - squall, strong wind with rain
+
+# [Human and animal body](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+
+aligí - ovary of crustaceans
+
+alipungá - athlete's foot
+
+balakáng - hip; loin, pelvis
+
+balakubak - dandruff
+
+balayubay - dark dandruff
+
+balagat - collarbone, shoulder blade
+
+balambán - membrane
+
+balantukan - partially healed wound
+
+balikaró - swelling of the lips; thickening of the edges (wounds)
+
+balugbóg - nape of the neck of fowls; spine
+
+balumbalunan - gizzard of fowls
+
+bulagáw - with gray eyes
+
+bulaid - hemorrhoids
+
+bulalay - elephant's trunk
+
+bulaló' - kneecap
+
+buliga' - eyeball; mound of earth
+
+buliglíg - swelling of the eyes (of fowls)
+
+bulubok (with -um-: bumulubok) - to bubble; gurgle
+
+bululós - diarrhea
+
+bulutong - pockmarks; smallpox
+
+bulutunggó - pockmarked
+
+dalahit (variant: dalahik) - intense coughing attack
+
+dalutdót - poking with the finger
+
+halawán - half-gray (hair)
+
+halimhím - brooding on eggs
+
+halubaybáy - deep-bodied sardine
+
+halukipkíp - with folded arms
+
+hilahod - shuffling of the feet; limping
+
+hilam - skin blemish on the face; pain in the eyes; turbidity
+
+hilantád - lying on one's back without any clothes
+
+kalá' (with -um-: kumalá' ) - to gargle
+
+kalagkág - gargle; hard scratching
+
+kalaba' - white spots on the eyeball; cataract
+
+kalaghalá' - phlegm
+
+kalumatá - dark rings around the eyes from lack of sleep
+
+kalingkingan - little finger
+
+kaliskís - scales of fish
+
+karangkál - distance between thumb and middle finger when stretched apart
+
+kilabot - goosebumps; terror, fear
+
+kilít - hunching of the shoulders
+
+kulaba' - white film over the eyes; film over liquids
+
+kulamós - scratch on the face
+
+kulani' - swelling of a lymph gland; (slang) unwanted pregnancy
+
+kulangot - dried snot
+
+kuliti' - sty in the eye
+
+malikaskás - peeling off (skin)
+
+maliputó' - short person
+
+ngalangalá - palate, roof of the mouth
+
+ngalisag (with maN-: mangalisag) - to bristle (hair)
+
+ngalit (with maN-: mangalit) - to grind the teeth
+
+ngalumatá - with dark rings under the eyes due to lack of sleep; with haggard-looking eyes; gaunt
+
+ngaluktíng' (with paN-: pangangaluktíng) - clattering of the teeth due to cold
+
+ngalumbaba' (with paN-: pangangalumbaba' ) - pensive look (with the head supported by the palm)
+
+palikpík - fin of a fish
+
+palingá' - with head turned sideways
+
+pulikat - spasm, body cramps
+
+salugsóg - sliver in the hand or foot; detailed investigation
+
+salumbabá' - sling for a broken arm; bandage that supports the chin or a corpse
+
+sulimpát - squinty-eyed
+
+sulikap - cloven-hoofed foot
+
+talukab - hard shell of crustaceans; loose or detached scab
+
+talukap - eyelid; sheath of palm leaves
+
+tulatód - coccyx
+
+ulag - molting of fowls
+
+untóg - bump on the head
+
+waliwali - close to the time of delivery (pregnant women); defective eyesight caused by hunger
+
+# [Miscellaneous](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
+
+balatok - gold ore
