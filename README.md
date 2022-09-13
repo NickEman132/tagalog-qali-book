@@ -1,3 +1,7 @@
+rounds of words that might get added:
+*balisa - restless (attested, etymology: ?) cf. balino
+
+
 # tagalog qali book
 
 A significant number of Tagalog words begin with the **Proto-Austronesian prefix** ****kali/qali***, which are described by Blust (2009:368) as implying a “sensitive connection with the spirit world.” The *kali/qali words present in the modern-day Tagalog language are a legacy of the Tagalog people’s animist past.
