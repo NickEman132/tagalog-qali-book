@@ -12,17 +12,17 @@ Proto-Austronesian reconstructions of interest include *qanitu â€œspirit, soulâ€
 # Contents
 [**Life**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#life)
 
-[*Insects, invertebrates*](https://github.com/NickEman132/tagalog-qali-book/edit/main/README.md#insects-invertebrates)
+[*Insects, invertebrates*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#insects-invertebrates)
 
-[*Reptiles*](https://github.com/NickEman132/tagalog-qali-book/edit/main/README.md#reptiles)
+[*Reptiles*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#reptiles)
 
-[*Birds*](https://github.com/NickEman132/tagalog-qali-book/edit/main/README.md#birds)
+[*Birds*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#birds)
 
-[*Fish*](https://github.com/NickEman132/tagalog-qali-book/edit/main/README.md#fish)
+[*Fish*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#fish)
 
-[*Plants*](https://github.com/NickEman132/tagalog-qali-book/edit/main/README.md#plants)
+[*Plants*](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#plants)
 
-[**Shape and motion**](https://github.com/NickEman132/tagalog-qali-book/edit/main/README.md#shape-and-motion)
+[**Shape and motion**](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#shape-and-motion)
 
 # [Life](https://github.com/NickEman132/tagalog-qali-book/blob/main/README.md#contents)
 
