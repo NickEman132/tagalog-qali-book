@@ -1,10 +1,12 @@
 rounds of words that might get added:
 
-*balisá - restless (attested, etymology: ?) cf. balino
+*balisá - restless (?) cf. balino
 
 *alinsunód - in accordance with (?) cf. sunód
 
 *halintulad - compare (?) cf. túlad
+
+*salungát - to go against (?) cf. salunga
 
 
 # tagalog qali book
