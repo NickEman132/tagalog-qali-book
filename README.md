@@ -10,6 +10,8 @@ rounds of words that might get added:
 
 *saliwa - (??)
 
+*talinhagaʼ - cwaga
+
 
 # tagalog qali book
 
