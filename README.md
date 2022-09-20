@@ -2,7 +2,7 @@ rounds of words that might get added:
 
 *balisá - restless (?) cf. balino
 
-*alinsunód - in accordance with (??) cf. sunód
+*alinsunod - in accordance with (??) cf. sunód
 
 *halintulad - compare (??) cf. túlad
 
