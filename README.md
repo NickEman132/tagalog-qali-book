@@ -12,7 +12,7 @@ rounds of words that might get added:
 
 *talinhagaʼ - (??) cf. hiwagaʼ (hagaʼ?)
 
-**alimpulo - (NT) swirly hair thing cf. alimpuyó, puyó
+**alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
 
 # tagalog qali book
