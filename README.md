@@ -12,6 +12,8 @@ rounds of words that might get added:
 
 *talinhagaʼ - (??) cf. hiwagaʼ (hagaʼ?)
 
+**alimpulo - swirly hair thing (not tagalog)
+
 
 # tagalog qali book
 
