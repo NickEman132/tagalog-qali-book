@@ -12,6 +12,8 @@ rounds of words that might get added:
 
 *talinhagaʼ - (??) cf. hiwagaʼ (hagaʼ?)
 
+*balikutkót
+
 **alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
 
