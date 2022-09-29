@@ -18,6 +18,9 @@ rounds of words that might get added:
 
 **alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
+alpay, alipay, aninipot, 
+
+alakaak, alakap, alaga, alagaw, alagatli, alagas, alangasi (visayan), alahan, álam, alamag, alamang, alang-ilang
 
 # tagalog qali book
 
