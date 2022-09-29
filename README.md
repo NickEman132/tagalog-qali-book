@@ -14,6 +14,8 @@ rounds of words that might get added:
 
 *balikutkót
 
+*alinangnáng
+
 **alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
 
