@@ -25,6 +25,9 @@ rounds of words that might get added:
 alpay, alipay, aninipot alangitngit 
 
 alakaak, alakap, alaga, alagaw, alagatli, alagas, alangasi (visayan), alahan, álam, alamag, alamang, alang-ilang
+bubuli, buli, bulig, buliga, bulinaw, bulilit
+alapaap
+
 
 # tagalog qali book
 
