@@ -16,6 +16,10 @@ rounds of words that might get added:
 
 *alinangnáng
 
+*saligutgot
+
+*talimangmang
+
 **alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
 alpay, alipay, aninipot alangitngit 
