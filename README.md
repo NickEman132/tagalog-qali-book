@@ -833,7 +833,7 @@ halughóg - close examination, search; ransacking search
 
 halungkál - turning over contents while searching for something
 
-halungkát - mischievous search; rummaging
+halungkát - mischievous search; rummaging (cf. angkat, pangkat)
 
 halwát - searching by emptying the contents
 
