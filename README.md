@@ -20,6 +20,10 @@ rounds of words that might get added:
 
 *talimangmang
 
+* aligamgam - doubt (syn. of agamagam)
+
+* alikot - laziness (cf. ansikot)
+
 **alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
 alpay, alipay, aninipot alangitngit 
