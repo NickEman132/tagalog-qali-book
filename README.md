@@ -14,6 +14,8 @@ rounds of words that might get added:
 
 *balikutkót
 
+*balungkawit 
+
 *alinangnáng
 
 *saligutgot
