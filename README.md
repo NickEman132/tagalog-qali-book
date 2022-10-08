@@ -22,6 +22,8 @@ rounds of words that might get added:
 
 *talimangmang
 
+*bukaykay
+
 *aligamgam - doubt (syn. of agamagam)
 
 *alikot - laziness (cf. ansikot)
