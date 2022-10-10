@@ -1,4 +1,4 @@
-rounds of words that might get added:
+Grounds of words that might get added:
 
 *balisá - restless (?) cf. balino
 
@@ -21,6 +21,8 @@ rounds of words that might get added:
 *saligutgot
 
 *talimangmang
+
+*taliptip
 
 *bukaykay
 
