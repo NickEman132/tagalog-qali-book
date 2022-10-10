@@ -32,6 +32,8 @@ Grounds of words that might get added:
 
 **alimpuyó - whirl, eddy; swirly lock of hair (?) cf. puyó
 
+*alupihan - cf. ulapihan 
+
 alpay, alipay, aninipot alangitngit 
 
 alakaak, alakap, alaga, alagaw, alagatli, alagas, alangasi (visayan), alahan, álam, alamag, alamang, alang-ilang
