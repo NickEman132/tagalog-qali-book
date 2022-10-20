@@ -26,6 +26,8 @@ Grounds of words that might get added:
 
 *bukaykay
 
+*buhaghag
+
 *aligamgam - doubt (syn. of agamagam)
 
 *alikot - laziness (cf. ansikot)
