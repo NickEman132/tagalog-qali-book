@@ -1,4 +1,4 @@
-Grounds of words that might get added:
+Rounds of words that might get added but confirmation is needed:
 
 *balisá - restless (?) cf. balino
 
