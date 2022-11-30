@@ -18,6 +18,8 @@ Rounds of words that might get added but confirmation is needed:
 
 *balungkawit 
 
+*balinghuyán
+
 *alinangnáng
 
 *saligutgot
